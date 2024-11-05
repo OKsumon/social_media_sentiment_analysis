@@ -18,9 +18,8 @@ This project aims to develop a complete system for identifying early signs of me
 
 ## Code Hierarchy
 The project code is organized into several folders, each containing scripts for specific tasks:
-
-- `1. Data`: Contains data handling scripts, including data loading, cleaning, and initial pre-processing steps.
-- `2. Pre-processing`: Scripts for advanced data pre-processing such as tokenization, lemmatization, spell correction, and augmentation.
+- `1. Data`: Contains raw data collected from Kaggle, which was used throughout the project.
+- `2. Pre-processing`: Contains data handling scripts, including data loading, cleaning, and initial pre-processing steps. Additionally, Scripts for advanced data pre-processing such as tokenization, lemmatization, spell correction, and augmentation.
 - `3. Model`: Implementation of machine learning and deep learning models, including CNN, LSTM, BERT, and hybrid models (CNN-LSTM, BERT-BiLSTM). Each model has its dedicated Python script for training and evaluation.
 - `4. META LEARNER`: Scripts for the meta-learner model that combines predictions from individual models for improved accuracy.
 - `5. Website Building`: Code for developing the Flask-based web application for real-time sentiment analysis.
