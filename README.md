@@ -1,6 +1,6 @@
 # Social Media Sentiment Analysis for Early Mental Health Detection
 <div align="center">
-  <img src="images/university_logo.png" alt="University of Bedfordshire Logo" width="150"/>
+  <img src="images/uob.webp" alt="University of Bedfordshire Logo" width="150"/>
   <h6>A University of Bedfordshire MSc Computer Science Project</h6>
 </div>
 ## University of Bedfordshire Project
