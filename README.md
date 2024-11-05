@@ -1,11 +1,15 @@
 # Social Media Sentiment Analysis for Early Mental Health Detection
 
-![University of Bedfordshire Logo](images/uob.webp)
+<img src="images/uob.webp" alt="University of Bedfordshire Logo" width="150"/>
+
+## University of Bedfordshire Project
+This project was developed as part of the MSc Computer Science program at the University of Bedfordshire. It was conducted under the supervision of Gregory Beacher, as a final MSc project focusing on building a machine learning system for identifying early signs of mental health disorders through social media sentiment analysis .
 
 ## Overview
 This project aims to develop a complete system for identifying early signs of mental health disorders using social media sentiment analysis. Leveraging deep learning models such as CNN, LSTM, BERT, and hybrid models, the system analyzes user-generated content to classify sentiments and provide early detection insights. A web-based application was also developed for real-time analysis of social media data.
 
-![Project Logo](images/projectlogo.webp)
+<img src="images/projectlogo.webp" alt="Project Logo" width="200"/>
+
 
 ## Code Hierarchy
 The project code is organized into several folders, each containing scripts for specific tasks:
@@ -83,6 +87,6 @@ Feel free to submit issues and pull requests if you'd like to contribute to the 
 ## License
 This project is licensed under the MIT License.
 
-## Contact Information
-For more information, contact me via GitHub: [OKsumon](https://github.com/OKsumon).
-or You can email me : [sumonahmedjubayer@gmail.com](sumonahmedjubayer@gmail.com)
+
+
+You can also reach me at: sumonahmedjubayer@gmail.com
