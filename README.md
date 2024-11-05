@@ -8,7 +8,7 @@
 </div>
 
 ## Overview
-This project aims to develop a complete system for identifying early signs of mental health disorders using social media sentiment analysis. Leveraging deep learning models such as CNN, LSTM, BERT, and hybrid models, the system analyzes user-generated content to classify sentiments and provide early detection insights. A web-based application was also developed for real-time analysis of social media data.
+This project aims to develop a complete system for identifying early signs of mental health disorders using social media sentiment analysis. Leveraging deep learning models such as CNN, LSTM, BERT, and hybrid models, the system analyzes user-generated content to classify sentiments and provide early detection insights. A [web-based](https://sentiment.up.railway.app/) application was also developed for real-time analysis of social media data.
 
 <div align="center">
   <div align="center" style="filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.5));">
@@ -91,6 +91,9 @@ Feel free to submit issues and pull requests if you'd like to contribute to the 
 
 ## License
 This project is licensed under the MIT License.
+
+## Website
+Visit the real-time sentiment analysis web application: [https://sentiment.up.railway.app/](https://sentiment.up.railway.app/)
 
 
 
